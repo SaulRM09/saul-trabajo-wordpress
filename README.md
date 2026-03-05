@@ -6,3 +6,10 @@ La página web creada para este proyecto está basada en un noticiero de tecnolo
 # Enlaces a los contenidos
 En esta sección se encuentran los enlaces a los diferentes contenidos relacionados con la creación de este proyecto. Aquí podrás ver paso a paso cómo se han realizado tareas como instalar y configurar plugins, añadir categorías, gestionar usuarios, crear anuncios personalizados, entre otras funciones esenciales para el desarrollo del sitio web en WordPress.
 ### Enlaces:
+[Wordpress]()
+[Wordpress]()
+[Wordpress]()
+[Wordpress]()
+[Wordpress]()
+[Wordpress]()
+[Wordpress]()

@@ -165,7 +165,11 @@ Para mostrar anuncios personalizados dentro del sitio web, se utilizó el plugin
 }
 </style>
 ```
-
+### Imágenes_
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen22.png)
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen23.png)
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen24.png)
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen25.png)
 
 
 

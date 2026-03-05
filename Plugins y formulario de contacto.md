@@ -13,6 +13,8 @@ En este proyecto se han utilizado varios plugins para ampliar las funcionalidade
 4. Hacer clic en Activar.
 5. Configurarlo desde su menú correspondiente.
 ### Imágenes:
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen18.png)
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen19.png)
 
 # Formulario de contacto
 Para permitir que los usuarios se comuniquen con el sitio, se creó un formulario de contacto mediante un plugin.

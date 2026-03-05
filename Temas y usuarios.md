@@ -12,3 +12,5 @@ Para añadir un tema a nuestro sitio de WordPress, debemos seguir los siguientes
 ![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen1.png)
 ![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen2.png)
 ![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen3.png)
+### Tema utilizado para el proyecto
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen4.png)

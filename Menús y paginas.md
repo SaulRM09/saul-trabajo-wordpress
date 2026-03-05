@@ -10,3 +10,5 @@ Los menús permiten organizar y mostrar las páginas principales del sitio web, 
 7. En “Ubicación del menú”, elegir dónde se mostrará (cabecera, pie, menú móvil…).
 8. Guardar los cambios pulsando Guardar menú.
 ### Imagenes:
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen12.png)
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen13.png)

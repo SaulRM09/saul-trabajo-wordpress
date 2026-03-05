@@ -26,4 +26,15 @@ Las páginas en WordPress se utilizan para crear contenido estático, como “In
 ### Imágenes:
 ![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen14.png)
 ![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen15.png)
-
+# Widgets
+Los widgets permiten añadir contenido adicional en zonas específicas del tema, como la barra lateral o el pie de página. Dependiendo del tema, pueden incluir buscadores, listas de entradas, menús, calendarios o bloques personalizados.
+### Pasos a seguir
+1. Acceder al panel de administración.
+2. Ir a Apariencia → Widgets.
+3. Seleccionar la zona donde quieras añadir un widget (barra lateral, pie, etc.).
+4. Pulsar Añadir bloque y elegir el widget deseado.
+5. Configurar sus opciones según el tipo de widget.
+6. Guardar los cambios.
+### Imágenes:
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen16.png)
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen17.png)

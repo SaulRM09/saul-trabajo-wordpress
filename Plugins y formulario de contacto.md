@@ -29,6 +29,8 @@ Para permitir que los usuarios se comuniquen con el sitio, se creó un formulari
 8. Actualizar o publicar la página.
 9. Probar el formulario desde la web.
 ### Imágenes:
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen20.png)
+![Wordpress](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Imagenes/Imagen21.png)
 
 
 
